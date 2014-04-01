@@ -1,6 +1,9 @@
+wiringPi version 2
+===================
 
-wiringPi README
-===============
+This is an UN-OFFICIAL version of wiringPi from drogon.net. Please go to http://wiringpi.com for everithing!<br>
+I've cloned this for my purposes only because I need to made mods that have to be reflected in various distro's.<br>
+
 
 Please note that the official way to get wiringPi is via git from
 git.drogon.net and not GitHub.
